@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c4be066-b585-4744-8746-670f56f8e50d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RAnewEimerzIls8JFrsNuOpTO0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Dowloads/Compressed/webmag" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\doann\views\Home" />
+      <recent name="C:\xampp\htdocs\doann\views\TinTuc" />
+      <recent name="C:\xampp\htdocs\doann\admin\uploads" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\doann\controllers" />
+      <recent name="C:\xampp\htdocs\doann\admin\models" />
+      <recent name="C:\xampp\htdocs\doann\templates\css" />
+      <recent name="C:\xampp\htdocs\doann\templates\img" />
+      <recent name="C:\xampp\htdocs\doann\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c4be066-b585-4744-8746-670f56f8e50d" name="Default Changelist" comment="" />
+      <created>1569118866638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569118866638</updated>
+      <workItem from="1569118867777" duration="8172000" />
+      <workItem from="1569136479863" duration="964000" />
+      <workItem from="1569137552585" duration="7617000" />
+      <workItem from="1569161922811" duration="10440000" />
+      <workItem from="1569212687262" duration="1014000" />
+      <workItem from="1569221626288" duration="5052000" />
+      <workItem from="1569259068367" duration="4803000" />
+      <workItem from="1569287702215" duration="4029000" />
+      <workItem from="1569344493111" duration="1207000" />
+      <workItem from="1569374408958" duration="1937000" />
+      <workItem from="1569393456594" duration="1164000" />
+      <workItem from="1569418117338" duration="2087000" />
+      <workItem from="1569516696942" duration="3565000" />
+      <workItem from="1569555970059" duration="11699000" />
+      <workItem from="1569602514659" duration="9279000" />
+      <workItem from="1569635459361" duration="2094000" />
+      <workItem from="1569724166099" duration="3393000" />
+      <workItem from="1569727673791" duration="7450000" />
+      <workItem from="1569746749475" duration="2152000" />
+      <workItem from="1569761611912" duration="8424000" />
+      <workItem from="1569831879269" duration="638000" />
+      <workItem from="1569868130509" duration="1235000" />
+      <workItem from="1569953120048" duration="2197000" />
+      <workItem from="1569999421154" duration="271000" />
+      <workItem from="1570002677885" duration="5739000" />
+      <workItem from="1570020609667" duration="2502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
